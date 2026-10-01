@@ -50,8 +50,7 @@ A tela inicial apresenta a oficina e direciona o cliente para as principais func
 * acompanhamento do veículo;
 * contato.
 
-![Tela inicial do Auto Center Veloz](img/1.png)
-
+![Tela inicial do Auto Center Veloz](img/1.jpg)
 ### Tela de serviços
 
 Apresenta os principais serviços oferecidos pela oficina.
