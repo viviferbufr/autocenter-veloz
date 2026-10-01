@@ -39,11 +39,9 @@ Além disso, a solução é simples de desenvolver, manter e utilizar, sendo ade
 ## 🖥️ Protótipos e Telas
 
 ### Tela inicial
-
 A tela inicial apresenta a oficina e direciona o cliente para as principais funcionalidades do sistema.
 
 **Elementos principais:**
-
 * apresentação da oficina;
 * menu de navegação;
 * serviços;
@@ -51,31 +49,28 @@ A tela inicial apresenta a oficina e direciona o cliente para as principais func
 * contato.
 
 ![Tela inicial do Auto Center Veloz](img/1.jpg)
-### Tela de serviços
 
+### Tela de serviços
 Apresenta os principais serviços oferecidos pela oficina.
 
-> Inserir aqui o print da seção de serviços.
+![Tela serviços](img/2.jpg)
 
 ### Tela de acompanhamento
-
 Permite visualizar o andamento do serviço do veículo.
 
 Exemplo de informações apresentadas:
-
 * veículo;
 * placa;
 * status do serviço;
 * orçamento;
 * opção para aprovar ou recusar o orçamento.
 
-> Inserir aqui o print da tela de acompanhamento.
+![Tela acompanhamento](img/3.jpg)
 
 ### Tela de contato
-
 Apresenta as informações necessárias para o cliente entrar em contato com a oficina.
 
-> Inserir aqui o print da tela de contato.
+![Tela contato](img/4.jpg)
 
 ## 🏗️ Arquitetura do Projeto
 
