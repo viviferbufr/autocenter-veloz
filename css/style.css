@@ -1,1 +1,24 @@
-
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,sans-serif;background:#f4f6f8;color:#222}
+header{background:#123b5d;color:white;padding:18px 7%;display:flex;justify-content:space-between;align-items:center}
+.logo{font-size:22px;font-weight:bold}
+nav a{color:white;text-decoration:none;margin-left:22px}
+nav a:hover{text-decoration:underline}
+.hero{background:#dcebf5;padding:80px 8%;min-height:350px;display:flex;align-items:center}
+.hero h1{font-size:42px;margin-bottom:12px;color:#123b5d}
+.hero p{font-size:18px;max-width:600px;line-height:1.6}
+.botao,button{display:inline-block;background:#1c78b8;color:white;border:0;border-radius:6px;padding:12px 18px;text-decoration:none;cursor:pointer;margin-top:12px}
+.section{padding:55px 8%;text-align:center}
+.section h2{color:#123b5d}
+.cards{display:flex;gap:20px;justify-content:center;flex-wrap:wrap;margin-top:25px}
+.card{background:white;width:280px;padding:25px;border-radius:10px;box-shadow:0 2px 8px #0001}
+.status-box{background:white;max-width:750px;margin:25px auto;padding:30px;border-radius:10px;box-shadow:0 2px 8px #0001}
+.linha{display:flex;justify-content:space-between;gap:8px;margin:30px 0;flex-wrap:wrap}
+.linha span{padding:10px;color:#777}
+.linha .ativo{color:#16834b;font-weight:bold}
+.linha .atual{color:#1c78b8;font-weight:bold}
+.recusar{background:#777;margin-left:8px}
+#mensagem{font-weight:bold;margin-top:18px}
+.contato{background:#e8eef2}
+footer{background:#123b5d;color:white;text-align:center;padding:18px}
+@media(max-width:700px){header{display:block;text-align:center}nav{margin-top:15px}nav a{margin:0 7px}.hero h1{font-size:32px}}
