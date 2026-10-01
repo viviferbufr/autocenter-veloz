@@ -44,7 +44,7 @@ A tela inicial apresenta a oficina e direciona o cliente para as principais func
 **Elementos principais:**
 * apresentação da oficina;
 * menu de navegação;
-* serviços;
+* servicos;
 * acompanhamento do veículo;
 * contato.
 
